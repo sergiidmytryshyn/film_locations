@@ -2,6 +2,7 @@
 Module that creates html page with map with inputed coordinates
 and location of filming 10 films of inputed year
 """
+
 import sys
 from argparse import ArgumentParser
 from check_args import check_args
